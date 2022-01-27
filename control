@@ -1,0 +1,9 @@
+Package: com.darkshuper.addtestblockmod
+Name: AddTestBlockMod
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: DarkShuper
+Author: DarkShuper
+Section: Tweaks
